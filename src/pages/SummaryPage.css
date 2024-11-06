@@ -1,0 +1,16 @@
+.SummaryPage {
+    padding: 20px;
+}
+
+.stats {
+    background-color: #0d7890;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.crewmate-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
